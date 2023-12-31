@@ -1,3 +1,9 @@
+
+
+[![Build Status](https://dev.azure.com/Manonmaniragu/csa/_apis/build/status%2Fcsa-CI?branchName=master)](https://dev.azure.com/Manonmaniragu/csa/_build/latest?definitionId=15&branchName=master)
+
+# microsoft.github Ci Demo
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
