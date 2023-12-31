@@ -16,7 +16,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+         deploying to  azure dev ops
+         
         </a>
       </header>
     </div>
